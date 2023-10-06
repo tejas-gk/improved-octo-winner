@@ -1,1 +1,1 @@
-console.log('sosc')
+console.log('soswcript.js')
